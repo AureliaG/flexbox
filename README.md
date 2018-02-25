@@ -22,7 +22,7 @@ Property, which aligns items horizontally and accepts the following values:
 
 align-items
 ===========
-To help the frogs get to the bottom of the pond. This CSS property aligns items vertically and accepts the following values:
+This CSS property aligns items vertically and accepts the following values:
 
 **flex-start**: Items align to the top of the container.
 
